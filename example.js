@@ -87,4 +87,5 @@ var example = {
 	}
 };
 
-example.init();
+
+//example.init();
